@@ -66,3 +66,7 @@ The Streamlit app will be hosted on `localhost:8501`.
 ## Contribute:
 
 Contributions from the developer community are welcome to enhance and refine the Bank Loan Prediction Model. You can contribute by forking the repository, submitting issues, and creating pull requests to improve the project's functionality and user experience.🎬✨
+
+## Check this out
+
+Explore the live version of the Bank Loan Prediction Model on [this URL](https://loan-eligibility-predictor-drstrange.streamlit.app/)
