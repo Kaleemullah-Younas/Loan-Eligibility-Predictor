@@ -4,7 +4,7 @@ The Bank Loan Prediction Model utilizes machine learning algorithms to predict l
 
 ## Preview
 
-![Loan Prediction Model Preview](loan_predictor.gif)
+![Loan Prediction Model Preview](Loan_Predictor_GIF.gif)
 
 ## Working of the Project
 
